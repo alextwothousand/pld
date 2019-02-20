@@ -1,0 +1,10 @@
+*.exe
+*.amx
+*.txt
+
+scriptfiles/
+plugins/
+pawno/
+include/
+
+server.cfg

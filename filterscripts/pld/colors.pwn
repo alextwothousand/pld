@@ -1,0 +1,2 @@
+#define COLOR_BLUE		0x2641FEFF
+#define COL_BLUE		"{2641FE}"
