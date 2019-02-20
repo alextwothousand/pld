@@ -1,12 +1,19 @@
 # Player Location Display
 Player Location Display for SAMP, based off of it's GTA V counterpart.
 
+<img src="https://uploadir.com/u/lc59u2jh"></img>
+
+(These are images from when I first created the design, there is a more updated look at the design in a pretty shitty video I made.)
+
+Video of latest update (yes its pretty shit please excuse me): https://youtu.be/ARc9RjMuZb0?t=19
+
 <i>PLD–Player Location Display SAMP is a filterscript that displays the player's current location (including street name or intersection, area name, and region) at the bottom-left corner of the user's screen. It also shows the player's current compass point depending on what direction they are facing.</i>
 
 ## Description
 * PLD displays your current compass point. At the moment it only supports North, East, South and West however I do plan on adding support for North East, South East, South West and North West in the future.
 * PLD displays the player's current location. (Only caveat is that you have to provide XY coordinates)
 * Location includes Street Name, Geographical Area & City.
+* Players can disable the feature for theirselves by typing in /pld.
 
 ## Dependencies
 * streamer by Incognito
