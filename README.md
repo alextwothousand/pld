@@ -24,6 +24,7 @@ For more in-depth installation please see the wiki.
 ## Notes
 * This is not an .ASI script like the GTA V Player Location Display, this is completely server-sided. Please do not contact me about making it into an ASI.
 * This is for San Andreas Multiplayer, not any GTA 5 Multiplayer platform.
+* Any other issues or queries please open up a issue!
 
 ## Credits
 * Gravityfalls/Logic for helping me out with the streamer aspect of this.
