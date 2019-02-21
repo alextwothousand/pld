@@ -26,19 +26,6 @@ new p_TextDirection[8][MAX_PLAYERS];
 #define COLOR_RED       0xFF0000FF
 #define COL_RED         "{FF0000}"
 
-/* 
-	v1.1 Changelog
-
-	- Removed the colors.pwn module.
-	- Removed OnPlayerDisconnect.
-	- Removed p_PlayerSpawned.
-	- Added a couple new variables, updating will only happen if the player's direction has actually changed.
-	- Player is now able to know whether or not they have PLD disabled with a notification.
-	- Textdraws now load when a player connects.
-	- I forgot to distrubute the bars between the direction, it's added now.
-
-*/
-
 //#define SHOW_GANGZONES uncomment this to make gangzones viewable.
 
 main() {
