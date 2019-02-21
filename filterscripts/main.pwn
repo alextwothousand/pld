@@ -119,7 +119,7 @@ public CreateTextDraws(playerid) {
 	PlayerTextDrawFont(playerid, p_LocationTextdraw[playerid][1], 1);
 	PlayerTextDrawSetProportional(playerid, p_LocationTextdraw[playerid][1], 1);
 
-	p_DirectionTextdraw[playerid] = CreatePlayerTextDraw(playerid, 112.333335, 422.711120, "NW");
+	p_DirectionTextdraw[playerid] = CreatePlayerTextDraw(playerid, 112.333335, 422.711120, "N");
 	PlayerTextDrawLetterSize(playerid, p_DirectionTextdraw[playerid], 0.400000, 1.600000);
 	PlayerTextDrawAlignment(playerid, p_DirectionTextdraw[playerid], 2);
 	PlayerTextDrawColor(playerid, p_DirectionTextdraw[playerid], -1);
