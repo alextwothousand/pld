@@ -210,5 +210,4 @@ public OnPlayerClickPlayerTextDraw(playerid, PlayerText:playertextid) {
 		ShowPlayerDialog(playerid, 0, DIALOG_STYLE_MSGBOX, "Player Location Display", "Player Location Display\nCreated by Infinity\n\
 			With help from Gravityfalls!", "Okay", "");
 	}
-	return 0;
 }
