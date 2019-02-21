@@ -1,0 +1,1 @@
+AddSimpleModel(-1, 19379, -12000, "object.dff", "pld.txd");

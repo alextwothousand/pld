@@ -1,6 +1,7 @@
 *.exe
 *.amx
 *.txt
+!artconfig.txt
 
 scriptfiles/
 plugins/
